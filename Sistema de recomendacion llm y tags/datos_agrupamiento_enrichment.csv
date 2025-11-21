@@ -1,0 +1,28 @@
+K óptimo,3
+Prediction Strength k óptimo,0.851
+
+k,PS,std
+2,0.956,0.021
+3,0.851,0.065
+4,0.756,0.081
+5,0.636,0.129
+6,0.646,0.182
+7,0.447,0.165
+8,0.444,0.095
+9,0.389,0.088
+10,0.378,0.085
+11,0.341,0.091
+12,0.328,0.042
+13,0.299,0.06
+14,0.285,0.045
+15,0.26,0.051
+
+Métrica,Valor
+Silhouette Score,0.086
+Calinski-Harabasz Index,293.169
+Davies-Bouldin Index,3.051
+
+Cluster,Nombre,Num películas,Película central,Distancia centroide
+0,"drama, social issues",1828,Late Shift,4.2409
+1,"comedy, animation",1096,John Mulaney: The Comeback Kid,4.3943
+2,"documental, social issues",1076,"All About ""All About Lily Chou-Chou""",3.33

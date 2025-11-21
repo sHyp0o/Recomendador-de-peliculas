@@ -1,0 +1,29 @@
+K óptimo,4
+Prediction Strength k óptimo,0.871
+
+k,PS,std
+2,0.942,0.146
+3,0.838,0.158
+4,0.871,0.045
+5,0.477,0.072
+6,0.635,0.088
+7,0.65,0.128
+8,0.497,0.102
+9,0.365,0.044
+10,0.38,0.076
+11,0.318,0.084
+12,0.293,0.062
+13,0.262,0.063
+14,0.286,0.074
+15,0.224,0.031
+
+Métrica,Valor
+Silhouette Score,0.14
+Calinski-Harabasz Index,412.235
+Davies-Bouldin Index,2.338
+
+Cluster,Nombre,Num películas,Película central,Distancia centroide
+0,"thriller, drama",610,Land of Fear,3.9779
+1,"drama, social issues",1514,Sound of the Mountain,4.1826
+2,"documental, social issues",1096,Attenborough's Life in Colour,2.941
+3,"comedy, animation",780,Hair-Raising Hare,4.2089
