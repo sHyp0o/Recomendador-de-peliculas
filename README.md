@@ -21,7 +21,9 @@ Al extraer usuarios se seleccionan N usuarios únicos que hayan visto al menos u
 por lo que el scraping de películas debe correrse antes.
 
 Modos de Recomendacion (filtrado_híbrido.py)
+
 Para realizar recomendaciones con o sin enriquecimiento solo debe reemplazar la variable a continuación según su necesidad:
+
 - Con enriquecimiento: TAGS_JSON = "tags_puntuados_peliculas.json"
 - Sin enriquecimiento: TAGS_JSON = "tags_puntuados_sr.json"
 
