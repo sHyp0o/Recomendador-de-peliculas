@@ -2,7 +2,7 @@
 Recomendador de peliculas hibridas haciendo uso de llms y representación semántica mediante etiquetas
 
 Autores
-Vicente Eugenio Salinas Guerra
+Vicente Eugenio Salinas Guerra,
 Gabriel Andrés Pizarro Rivera 
 
 Requisitos
